@@ -733,6 +733,7 @@ CREATE table Rating1(
 ALTER TABLE Rating1 ADD CONSTRAINT stu1_rating_fk foreign key (stuID1) references Student1(stuID1);
 ALTER TABLE Rating1 ADD CONSTRAINT course1_rating_fk foreign key (courseID) references Courses(courseID);
 
+
 CREATE table Rating2(
     stuID2 integer,
     courseID integer,
