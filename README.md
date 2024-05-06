@@ -9,4 +9,7 @@ At The Spark, instructors are specialists in the subject they teach and as such,
 Classes are carried out in an online session where students and instructors meet in a one on one appointment. Students can have multiple appointments set up per week, for different courses,  and instructors can also have multiple one on one appointments per workday, teaching different students throughout the week. After many online appointments for a course, a final assessment is administered to test the students mastery of the course. Assessments have a unique Assessment ID. Each assessment has a formal title, score required to pass, time limit, and due date. One assessment is administered to one student. Considering a student can take multiple courses, each with its own final assessment, a student may end up taking multiple final assessments during their time on The Spark. 
 
 
+[Legacy](https://github.com/Anuj-Khadka/The-Spark-DBMS/assets/68344176/2624e28e-d2ad-441f-b882-f83e5b5bd85f)
+[Refactored](https://github.com/Anuj-Khadka/The-Spark-DBMS/assets/68344176/30c163b0-9c0e-421d-95e8-ec7bc78b7400)
+
 [Modal Questions](https://github.com/Anuj-Khadka/The-Spark-DBMS/blob/main/model_questions.sql)
